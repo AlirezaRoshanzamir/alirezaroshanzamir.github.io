@@ -1,4 +1,3 @@
-# 001: Github
 github:
   Weight: 1
   Prefix: https://github.com/
@@ -6,7 +5,6 @@ github:
   Icon:
     Class: fab fa-github fa-fw
 
-# 002: LinkedIn
 linkedin:
   Weight: 2
   Prefix: https://linkedin.com/in/
@@ -14,83 +12,73 @@ linkedin:
   Icon:
     Class: fab fa-linkedin fa-fw
 
-# 006: Telegram
-telegram:
-  Weight: 6
-  Prefix: https://t.me/
-  Title: Telegram
-  Icon:
-    Class: fab fa-telegram-plane fa-fw
-
-# 007: Medium
-medium:
-  Weight: 7
-  Prefix: https://medium.com/
-  Title: Medium
-  Icon:
-    Class: fab fa-medium fa-fw
-
-# 020: Stack Overflow
 stackoverflow:
-  Weight: 20
+  Weight: 3
   Prefix: https://stackoverflow.com/users/
   Title: Stack Overflow
   Icon:
     Class: fab fa-stack-overflow fa-fw
 
-# 042: Skype
-skype:
-  Weight: 42
-  Template: "skype:"
-  Title: Skype
-  Icon:
-    Class: fab fa-skype fa-fw
-
-# 043: WhatsApp
-whatsapp:
-  Weight: 43
-  Prefix: https://wa.me/
-  Title: WhatsApp
-  Icon:
-    Class: fab fa-whatsapp fa-fw
-
-# Youtube
-youtube:
-  Weight: 80
-  Prefix: https://youtube.com/
-  Title: Youtube
-  Newtab: true
-  Icon:
-    Class: fab fa-youtube fa-fw
-
-# Codewars
 codewars:
-  Weight: 81
+  Weight: 4
   Prefix: https://codewars.com/users/
   Title: Codewars
   Newtab: true
   Icon:
     Simpleicons: codewars
 
-# Phone
-phone:
+youtube:
+  Weight: 5
+  Prefix: https://youtube.com/
+  Title: Youtube
+  Newtab: true
+  Icon:
+    Class: fab fa-youtube fa-fw
+
+medium:
+  Weight: 6
+  Prefix: https://medium.com/
+  Title: Medium
+  Icon:
+    Class: fab fa-medium fa-fw
+
+skype:
   Weight: 100
+  Template: "skype:"
+  Title: Skype
+  Icon:
+    Class: fab fa-skype fa-fw
+
+whatsapp:
+  Weight: 101
+  Prefix: https://wa.me/
+  Title: WhatsApp
+  Icon:
+    Class: fab fa-whatsapp fa-fw
+
+telegram:
+  Weight: 102
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fab fa-telegram-plane fa-fw
+
+phone:
+  Weight: 150
   Template: tel:%v
   Title: Phone
   Icon:
     Class: fas fa-phone fa-fw
 
-# Email
 email:
-  Weight: 101
+  Weight: 151
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# RSS
 rss:
-  Weight: 102
+  Weight: 200
   Url: /index.xml
   Title: RSS
   Newtab: true

@@ -81,6 +81,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = false
       paginate = 6
   [params.social]
+    Stackoverflow = "6628488/alireza-roshanzamir"
+    LinkedIn = "alireza-roshanzamir"
     GitHub = "AlirezaRoshanzamir"
     Telegram = "recurisve_recursion"
     Whatsapp = "+989355246329"
