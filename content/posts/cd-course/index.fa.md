@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "دوره‌ی تحویل مداوم"
-date: 2019-12-01T21:57:40+08:00
-lastmod: 2020-01-01T16:45:40+08:00
+date: 2023-08-18T00:00:00+00:00
+lastmod: 2023-08-18T00:00:00+00:00
 draft: false
 author: "Alireza Roshanzamir"
 authorLink: "https://alirezaroshanzamir.github.io/about/"
@@ -13,7 +13,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["Continuous Delivery", "Continuous Integration", "DevOps", "Build", "Test", "Release", "Deployment", "Automation", "Version Control", "Deployment Pipeline"]
-categories: ["Course"]
+categories: ["Courses"]
 
 lightgallery: true
 ---
