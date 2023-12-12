@@ -8,7 +8,7 @@ Feel free to explore the deployed website by visiting https://alirezaroshanzamir
 First, you should clone the repository, including all Git submodules.
 
 ```console
-$ git clone --recursive https://github.com/decent-lab/decent-lab.github.io
+$ git clone --recursive https://github.com/AlirezaRoshanzamir/alirezaroshanzamir.github.io
 ```
 
 Following that, you should [install Hugo](https://gohugo.io/installation/) according to your operating system.
