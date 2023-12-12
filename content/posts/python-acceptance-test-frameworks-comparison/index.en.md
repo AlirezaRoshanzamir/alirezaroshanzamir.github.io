@@ -6,13 +6,13 @@ lastmod: 2023-12-12T00:00:00+00:00
 draft: false
 author: "Alireza Roshanzamir"
 authorLink: "https://alirezaroshanzamir.github.io/about/"
-description: "Python BDD frameworks comparison"
+description: "Python acceptance test frameworks detailed feature comparison"
 images: []
 resources:
-- name: "python-acceptance-test-frameworks"
+- name: "featured-image"
   src: "python-acceptance-test-frameworks.png"
 
-tags: ["Acceptance Testing", "Testing", "BDD", "Behavior-Driven Development", "Gherkin", "GWT", "Given-When-Then", "RobotFramework", "Behave", "Cucumber", "Continuous Delivery", "UAT", "JIRA", "Xray", "ATDD", "Acceptance Test-Driven Development"]
+tags: ["Acceptance Test", "Test", "BDD (Behavior-Driven Development)", "Gherkin", "GWT (Given-When-Then)", "RobotFramework", "Behave", "Cucumber", "Continuous Delivery", "JIRA", "Xray", "ATDD", "Acceptance Test-Driven Development"]
 categories: ["Libraries/Tools"]
 
 lightgallery: true

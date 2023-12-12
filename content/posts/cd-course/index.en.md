@@ -10,7 +10,7 @@ description: "Continuous delivery course presentation"
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "cd-loop.png"
 
 tags: ["Continuous Delivery", "Continuous Integration", "DevOps", "Build", "Test", "Release", "Deployment", "Automation", "Version Control", "Deployment Pipeline"]
 categories: ["Courses"]
