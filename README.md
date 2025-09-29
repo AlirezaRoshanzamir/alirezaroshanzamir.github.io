@@ -11,7 +11,7 @@ First, you should clone the repository, including all Git submodules.
 $ git clone --recursive https://github.com/AlirezaRoshanzamir/alirezaroshanzamir.github.io
 ```
 
-Following that, you should [install Hugo](https://gohugo.io/installation/) according to your operating system.
+Following that, you should [install Hugo Extended v0.115.4](https://gohugo.io/installation/) according to your operating system.
 
 Finally, you can run the following command to view the website with live-reload at `localhost:1313`:
 

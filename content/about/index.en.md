@@ -12,7 +12,7 @@ lightgallery: true
 ![Alireza Roshanzamir](/images/avatar.png)
 {{< /style >}}
 
-I am Alireza Roshanzamir, born in 1996 - you can do the math to find out my age since I can't increment a number each year here :). I'm married and deeply devoted to my family, life, and my spouse.
+I am Alireza Roshanzamir, born in 1996 - you can do the math to find out my age since I can't increment a number each year here :).
 
 In the professional realm, I have an intense passion for computers and software engineering, including programming, design, architecture, testing, requirements engineering, methodologies, and more. I thoroughly enjoy reading technical computer books, and for non-technical matters, I prefer audiobooks.
 
@@ -36,3 +36,5 @@ I initiated my professional career during my bachelors at Resa startup (Resalat 
 After Resa, I transitioned to larger companies and joined Mahsan. Given the security nature of projects (often network-centric) and their emphasis on performance, many products were developed in C++. I worked in the VoIP team at Mahsan, focusing on data leakage prevention (DLP). I also conducted small courses on testing and software design, promoting these practices in the C++ domain.
 
 With the quality concerns I encountered in my early Mahsan years, I advanced to the Quality Team Technical Leader role. During this time, I contributed to quality metrics, policies, implementation, and infrastructure. Details are available in my resume and LinkedIn. We implemented our products using Python, often extending frameworks to match specific needs. While I enjoyed programming, I actively pursued architectural and testing practices, even conducting courses on CI/CD, Acceptance Test, Artifactory, Monorepo, and Living Documentation.
+
+After Mahsan, I joined Bimlogiq, an international startup based in Australia, as a Backend Team Leader. The company focuses on developing an AI assistant for Autodesk Revit, aimed at helping users automate tasks and create plugins without programming knowledge. In this role, I have been responsible for designing and implementing backend services, establishing CI/CD pipelines, developing business intelligence reporting systems, and building AI engine agents.
